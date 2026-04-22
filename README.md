@@ -1,2 +1,2 @@
-# genz-web
-GENZ UNIFORMS Website &amp; Frontend System
+# GENZ UNIFORMS
+Modern uniform platform for schools.
